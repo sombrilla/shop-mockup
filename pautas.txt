@@ -1,0 +1,13 @@
+   Cada vez que se cambia de categoría debe aparecer una oferta especial que se destaque durante 10 segundos a modo de banner flotante, luego esta oferta DEBE DESAPARECER. 
+   En la grilla de productos, mostrar: Nombre, descripción, precio y una imagen en miniatura. 
+   En el checkout se debe solicitar la información del cliente (nombre, teléfono, email, lugar y fecha de entrega) y del pago (método de pago, cuotas –si correponde–). 
+
+  
+   Si el ampliar la imagen ofrece más de una foto (a modo de galería de fotos), mejor.  
+   Hacer que el banner rote aleatoriamente cada vez que se cambia de categoría y ofrecer alguna interacción (ver o agregar un producto, ir a una categoría, etc.). 
+   En los datos del cliente, hacer que algunos datos sean obligatorios. La única validación solicitada es que los datos no estén vacíos (con que no sea comilla-comilla, alcanza).
+   Destacar visualmente los campos que no pasen no pasen satisfactoriamente la validación. 
+   Usar temporizadores –Intervalos y TimeOut– para suavizar los efectos y/o generar transiciones (no cuenta el banner, que se debe quitar a los 10 segundos).
+   Detección de teclado para los casos donde pueda implementarse (por ejemplo, cerrar la ventana modal al usar la tecla escape, o moverse a la imagen anterior/siguiente con las flechas). 
+Se considerará cumplido este punto si se utiliza en dos ocasiones distintas.
+   Resetear el carrito al finalizar la compra.  
